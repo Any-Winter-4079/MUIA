@@ -1,0 +1,376 @@
+Title: 
+
+URL Source: https://muia.dia.fi.upm.es/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000361_1S_2021-22.pdf
+
+Markdown Content:
+PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS PR/CL/001 
+
+E.T.S. de Ingenieros Informaticos 
+
+# ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+ASIGNATURA 
+
+103000361 - Busqueda Inteligente Basada En Metaheuristicas 
+
+PLAN DE ESTUDIOS 
+
+10AJ - Master Universitario En Inteligencia Artificial 
+
+CURSO ACADÉMICO Y SEMESTRE 
+
+2021/22 - Primer semestre PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## Índice 
+
+Guía de Aprendizaje 
+
+1. Datos descriptivos....................................................................................................................................................1 2. Profesorado.............................................................................................................................................................1 3. Competencias y resultados de aprendizaje..............................................................................................................2 4. Descripción de la asignatura y temario.....................................................................................................................3 5. Cronograma.............................................................................................................................................................4 6. Actividades y criterios de evaluación........................................................................................................................7 7. Recursos didácticos.................................................................................................................................................9 8. Otra información......................................................................................................................................................10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## 1. Datos descriptivos 
+
+1.1. Datos de la asignatura 
+
+Nombre de la asignatura 103000361 - Busqueda Inteligente Basada en Metaheuristicas 
+
+No de créditos 5 ECTS 
+
+Carácter Optativa 
+
+Curso Primer curso 
+
+Semestre Primer semestre 
+
+Período de impartición Septiembre-Enero 
+
+Idioma de impartición Castellano 
+
+Titulación 10AJ - Master Universitario en Inteligencia Artificial 
+
+Centro responsable de la titulación 10 - Escuela Tecnica Superior De Ingenieros Informaticos 
+
+Curso académico 2021-22 
+
+## 2. Profesorado 
+
+2.1. Profesorado implicado en la docencia 
+
+Nombre Despacho Correo electrónico Horario de tutorías *
+
+Alfonso Mateos Caballero (Coordinador/a) 2110 alfonso.mateos@upm.es Sin horario. * Las horas de tutoría son orientativas y pueden sufrir modificaciones. Se deberá confirmar los horarios de tutorías con el profesorado. 
+
+> GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 1 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## 3. Competencias y resultados de aprendizaje 
+
+3.1. Competencias 
+
+CB10 - Que los estudiantes posean las habilidades de aprendizaje que les permitan continuar estudiando de un modo que habrá de ser en gran medida autodirigido o autónomo. CB9 - Que los estudiantes sepan comunicar sus conclusiones y los conocimientos y razones últimas que las sustentan a públicos especializados y no especializados de un modo claro y sin ambigüedades CEIA5 - Conocimiento las principales técnicas de computación natural, tanto a nivel simbólico como físico, e identificar su idoneidad para distintos tipos de problemas CG10 - Capacidad de pensamiento creativo con el objetivo de desarrollar enfoques y métodos nuevos y originales. CG9 - Aplicación de los métodos de resolución de problemas más recientes o innovadores y que puedan implicar el uso de otras disciplinas. CGI3 - Capacidad para valorar la importancia de las fuentes documentales, manejarlas y buscar la información para el desarrollo de cualquier trabajo de investigación. CGI4 - Capacidad de leer y comprender publicaciones dentro de su ámbito de estudio/investigación, así como su catalogación y valor científico. 
+
+3.2. Resultados del aprendizaje 
+
+RA51 - Saber manejar fuentes bibliográficas y valorar su importancia para desarrollar trabajos escritos innovadores o que reflejen el estado del arte RA17 - Ser capaz de aplicar metaheurísticas para resolver problemas de optimización uniobjetivo y multiobjetivo RA38 - Manejar bien los términos y realizar exposiciones en público sobre la temática de la materia. 
+
+> GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 2 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## 4. Descripción de la asignatura y temario 
+
+4.1. Descripción de la asignatura 
+
+La asignatura Búsqueda Inteligente Basada en Metaheurísticas tiene como objetivo analizar las herramientas que permitirán resolver problemas de optimización, tanto con un sólo objetivo como con múltiples objetivos, que tienen una complejidad NP-hard. Estas herramientas, denominadas Metaheurísticas, permiten proporcionar buenas soluciones en un tiempo razonable. 
+
+4.2. Temario de la asignatura 
+
+1. Introducción a la Optimización, Optimización Multiobjetivo y las Metaheurísticas 2. Métodos Analíticos de Optimización Multiobjetivo 3. Metaheurísticas Evolutivas: Algoritmos Genéticos, Computación Evolutiva,... 4. Metaheurísticas de Búsqueda Global: Recocido Simulado, Búsqueda Tabú,... 5. Metaheurísticas de Constructivas: Colonias de Hormigas, GRASP,... 
+
+> GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 3 de 10
+
+PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos 5. Cronograma 
+
+5.1. Cronograma de la asignatura * 
+
+Sem Actividad presencial en aula Actividad presencial en laboratorio Tele-enseñanza Actividades de evaluación 
+
+1
+
+Explicación de los contenidos del Tema 1
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Explicación de los contenidos del Tema 2
+
+Duración: 01:00 LM: Actividad del tipo Lección Magistral 
+
+2
+
+Explicación de los contenidos del Tema 2
+
+Duración: 01:00 LM: Actividad del tipo Lección Magistral 
+
+Explicación de los contenidos del Tema 3
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Realización de un test de preguntas múltiples sobre los temas 1 y 2 
+
+ET: Técnica del tipo Prueba Telemática Evaluación continua No presencial Duración: 01:00 
+
+3
+
+Explicación de los contenidos del Tema 3
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Explicación de los contenidos del Tema 4
+
+Duración: 01:00 LM: Actividad del tipo Lección Magistral 
+
+Tutorías en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+4
+
+Explicación de los contenidos del Tema 4
+
+Duración: 03:00 LM: Actividad del tipo Lección Magistral 
+
+Tutorías en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+5
+
+Realización de un test de preguntas múltiples sobre los temas 3 y 4 
+
+ET: Técnica del tipo Prueba Telemática Evaluación continua No presencial Duración: 01:00 
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo Evaluación continua Presencial Duración: 03:00 
+
+GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 4 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos 6
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo Evaluación continua Presencial Duración: 03:00 
+
+7
+
+Explicación de los contenidos del Tema 4
+
+Duración: 03:00 LM: Actividad del tipo Lección Magistral 
+
+Tutorías en grupo 
+
+Duración: 03:00 OT: Otras actividades formativas 
+
+8
+
+Explicación de los contenidos del Tema 4
+
+Duración: 01:00 LM: Actividad del tipo Lección Magistral 
+
+Tutorías en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Explicación de los contenidos del Tema 5
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría de la memoria 
+
+Duración: 04:00 AC: Actividad del tipo Acciones Cooperativas 
+
+9
+
+Realización de un test de preguntas múltiples sobre los temas 4 y 5 
+
+ET: Técnica del tipo Prueba Telemática Evaluación continua Presencial Duración: 01:00 
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo Evaluación continua Presencial Duración: 03:00 
+
+10 
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo Evaluación continua Presencial Duración: 03:00 
+
+Entrega de la memoria detallada del trabajo realizado asociado a las presentaciones orales, tanto teórica como su aplicación 
+
+ET: Técnica del tipo Prueba Telemática Evaluación continua y sólo prueba final Presencial Duración: 02:00 
+
+11 
+
+Aplicaciones 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+12 
+
+GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 5 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos 13 
+
+> 14
+> 15
+> 16
+> 17
+> Examen final
+> EX: Técnica del tipo Examen Escrito Evaluación sólo prueba final Presencial Duración: 02:00
+
+Para el cálculo de los valores totales, se estima que por cada crédito ECTS el alumno dedicará dependiendo del plan de estudios, entre 26 y 27 horas de trabajo presencial y no presencial. * El cronograma sigue una planificación teórica de la asignatura y puede sufrir modificaciones durante el curso derivadas de la situación creada por la COVID-19. 
+
+GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 6 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos 6. Actividades y criterios de evaluación 
+
+6.1. Actividades de evaluación de la asignatura 
+
+6.1.1. Evaluación continua 
+
+Sem. Descripción Modalidad Tipo Duración Peso en la nota Nota mínima Competencias evaluadas 
+
+2
+
+Realización de un test de preguntas múltiples sobre los temas 1 y 2 
+
+ET: Técnica del tipo Prueba Telemática 
+
+No Presencial 01:00 10% / 10 CEIA5 CG10 
+
+5
+
+Realización de un test de preguntas múltiples sobre los temas 3 y 4 
+
+ET: Técnica del tipo Prueba Telemática 
+
+No Presencial 01:00 10% / 10 CEIA5 CG10 
+
+5
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo 
+
+Presencial 03:00 15% / 10 
+
+6
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo 
+
+Presencial 03:00 % / 10 
+
+9
+
+Realización de un test de preguntas múltiples sobre los temas 4 y 5 
+
+ET: Técnica del tipo Prueba Telemática 
+
+Presencial 01:00 10% / 10 CEIA5 CG10 
+
+9
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo 
+
+Presencial 03:00 15% / 10 
+
+10 
+
+Presentaciones orales de los alumnos de la parte teórica correspondiente a las prácticas asignadas 
+
+PG: Técnica del tipo Presentación en Grupo 
+
+Presencial 03:00 % / 10 
+
+10 
+
+Entrega de la memoria detallada del trabajo realizado asociado a las presentaciones orales, tanto teórica como su aplicación 
+
+ET: Técnica del tipo Prueba Telemática 
+
+Presencial 02:00 40% / 10 
+
+CG9 CEIA5 CB10 CB9 CGI3 CGI4 CG10 
+
+6.1.2. Evaluación sólo prueba final 
+
+GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 7 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+
+E.T.S. de Ingenieros Informaticos Sem Descripción Modalidad Tipo Duración Peso en la nota Nota mínima Competencias evaluadas        
+
+> 10
+> Entrega de la memoria detallada del trabajo realizado asociado a las presentaciones orales, tanto teórica como su aplicación
+> ET: Técnica del tipo Prueba Telemática
+> Presencial 02:00 40% / 10
+> CG9 CEIA5 CB10 CB9 CGI3 CGI4 CG10
+> 17 Examen final
+> EX: Técnica del tipo Examen Escrito
+> Presencial 02:00 60% / 10
+> CG9 CEIA5 CB10 CB9 CGI3 CGI4 CG10
+
+6.1.3. Evaluación convocatoria extraordinaria 
+
+No se ha definido la evaluación extraordinaria. 
+
+6.2. Criterios de evaluación 
+
+Para superar la asignatura los alumnos deberán realizar una práctica, en grupos de tres personas, de dos metaheurísticas que les serán asignadas, debiendo consultar fuentes bibliográficas para buscar las adaptaciones de las mismas al caso multiobjetivo y aplicarlas a una serie de problemas propuestos. Además, se asignará a cada grupo de prácticas una metaheurística no explicada en clase por el profesor, debiéndose realizar una búsqueda bibliográfica sobre la misma. Como resultado de este trabajo en grupo, los miembros del mismo realizarán una presentación oral del estudio realizado. Además, el grupo presentará una memoria al profesor de todo el trabajo realizado y de los resultados obtenidos. De manera adicional, se realizarán tres test a los alumnos a través de la plataforma Moodle, todos ellos sobre los contenidos introducidos por los profesores de la asignatura. El objetivo de los mismos es comprobar que el alumno ha adquirido unos conocimientos mínimos que le permitan aplicar metaheurísticas para resolver problemas de optimización uniobjetivo y multiobjetivo. El alumno debe aprobar los test y las memorias de los trabajos realizados en grupo, por separado, y realizar las correspondientes presentaciones de forma correcta. Si es así, la nota final del alumno será la que se corresponde con la ponderación indicada en la tabla de Evaluación sumativa. 
+
+GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 8 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+La evaluación en la convocatoria de Julio consistirá en la realización de un test sobre los contenidos de la asignatura explicados en clase. El alumno deberá además volver a entregar las memorias de los trabajos asignados en la evaluación continua. 
+
+## 7. Recursos didácticos 
+
+7.1. Recursos didácticos de la asignatura 
+
+Nombre Tipo Observaciones 
+
+Coello, C.A., Van Veldhuizen, D.A. y Lamont G.B. (2002), Evolutionary Algorithms for Solving Multi-Objective Problems, Kluwer: New York. Bibliografía Deb, K. (2001), Multi-Objective Optimization using Evolutionary Algorithms, John Wiley: New York. Bibliografía Dreo, J., A. Pétrowski, P. Siarry y E. Taillard (2005), Metaheuristics for Hard Optimization, Springer: Berlín. Bibliografía Gandibleux, X., Servaux M., Sorensen K y T?kindt (eds.) (2004) Metaheuristics for Multiobjective Optimization, Lecture Notes in Economics and Mathematical Systems 535, Springer: Berlín. Bibliografía Glover, F. y Kochenberger, G.A. (eds.) (2003), Handbook of Metaheuristics, Kluwer: Boston. Bibliografía Osman, I.H. y Kelly, J.P. (1996), Meta-Heuristics: Theory and Applications, Kluwer: Boston. Bibliografía 
+
+> GA_10AJ_103000361 1S_2021-22 Busqueda Inteligente Basada En Metaheuristicas Master Universitario En Inteligencia Artificial Página 9 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+Ribeiro, C.C. y Hansen, P. (eds.) (2002), Essays and surveys in Metaheuristics, Kluwer: Boston. Bibliografía Siarry, P. y Michalewicz, Z. (2007) Advances in Metaheuristics for Hard Optimization (Natural Computing Series), Springer: Berlín. Bibliografía Yang, X.S. (2008), Nature-Inspired Metaheuristic Algorithms, Luniver Press. Bibliografía Aula virtual de Moodle Recursos web https://moodle.upm.es/titulaciones/oficiales/c ourse/view.php?id=4912 
+
+## 8. Otra información 
+
+8.1. Otra información sobre la asignatura 
+
+Las clases magistrales y las presentaciones orales por parte de los alumnos se realizarán de forma presencial y las tutorías individuales y en grupo se realizarán de forma telemática a través de la herramienta institucional UPM Microsoft Teams (todas ellas, en los horarios establecidos). Se prevé que la situación sanitaria causada por la pandemia COVID-19 haya mejorado lo suficiente como para impartir las clases presencialmente. Por ello se ha planificiado la docencia de este semestre en modo presencial. Si las condiciones sanitarias no permitieran usar el aforo completo de las aulas, se pasará a una modalidad de presencialidad mixta por turnos o no presencialidad. La asignatura se apoya en la herramienta Moodle para proporcionar información y documentación a los alumnos, así como para la asignación de enunciados y entregas de las prácticas, la realización del test de la asignatura y la comunicación de las calificaciones de los alumnos. La asignatura se imparte de forma concentrada en 10 semanas lectivas con 3 horas de clase semanales.

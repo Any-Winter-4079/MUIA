@@ -1,0 +1,476 @@
+Title: 
+
+URL Source: https://muia.dia.fi.upm.es/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000364_1S_2021-22.pdf
+
+Markdown Content:
+COORDINATION PROCESS OF LEARNING ACTIVITIES PR/CL/001 
+
+E.T.S. de Ingenieros Informaticos 
+
+# ANX-PR/CL/001-01 LEARNING GUIDE 
+
+SUBJECT 
+
+103000364 - Logic Programming 
+
+DEGREE PROGRAMME 
+
+10AJ - Master Universitario En Inteligencia Artificial 
+
+ACADEMIC YEAR & SEMESTER 
+
+2021/22 - Semester 1 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES 
+
+> ANX-PR/CL/001-01 LEARNING GUIDE
+> E.T.S. de Ingenieros Informaticos
+
+## Index 
+
+Learning guide 
+
+1. Description...............................................................................................................................................................1 2. Faculty.....................................................................................................................................................................1 3. Skills and learning outcomes ...................................................................................................................................2 4. Brief description of the subject and syllabus.............................................................................................................3 5. Schedule..................................................................................................................................................................5 6. Activities and assessment criteria............................................................................................................................7 7. Teaching resources.................................................................................................................................................10 8. Other information....................................................................................................................................................11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES 
+
+> ANX-PR/CL/001-01 LEARNING GUIDE
+> E.T.S. de Ingenieros Informaticos
+
+## 1. Description 
+
+1.1. Subject details 
+
+Name of the subject 103000364 - Logic Programming 
+
+No of credits 5 ECTS 
+
+Type Optional 
+
+Academic year ot the programme First year 
+
+Semester of tuition Semester 1 
+
+Tuition period September-January 
+
+Tuition languages English 
+
+Degree programme 10AJ - Master Universitario en Inteligencia Artificial 
+
+Centre 10 - Escuela Tecnica Superior De Ingenieros Informaticos 
+
+Academic year 2021-22 
+
+## 2. Faculty 
+
+2.1. Faculty members with subject teaching role 
+
+Name and surname Office/Room Email Tutoring hours * 
+
+Manuel De Hermenegildo Salinas (Subject coordinator) 2212 manuel.hermenegildo@upm. es Sin horario. M. Carmen Suarez De Figueroa Baonza 2201 mdelcarmen.suarezdefiguero a@upm.es Sin horario. Jose Francisco Morales Caballero 2101 josefrancisco.morales@upm. es Sin horario. * The tutoring schedule is indicative and subject to possible changes. Please check tutoring times with the faculty member in charge. 
+
+> GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 1 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES
+> ANX-PR/CL/001-01 LEARNING GUIDE
+> E.T.S. de Ingenieros Informaticos
+
+## 3. Skills and learning outcomes * 
+
+3.1. Skills to be learned 
+
+CEIA6 - Formalización de especificaciones, demostración de propiedades de los programas y diseño de programas con razonamiento o la utilización de la lógica misma como lenguaje de programación CG18 - Capacidad de trabajar y comunicarse también en contextos internacionales CG7 - Especificación y realización de tareas informáticas complejas, poco definidas o no familiares. CGI1 - Adquirir conocimientos científicos avanzados del campo de la informática que le permitan generar nuevas ideas dentro de una línea de investigación. 
+
+3.2. Learning outcomes 
+
+RA41 - Desarrollar un programa lógico a partir de especificaciones y mejorar la eficiencia del mismo y manejar con soltura sistemas de P y sus extensiones. RA39 - Identificar áreas de utilización y fronteras de la programación lógica, en especial dentro del campo de la Inteligencia Artificial RA40 - Identificar características de la programación lógica (PL) y sus extensiones que puedan resultar beneficiosas o perjudiciales para la resolución de un problema. RA44 - Saber manejar fuentes bibliográficas y valorar su importancia para desarrollar trabajos escritos innovadores o que reflejen el estado del arte en programación ló- gica RA43 - Diseñar extensiones de la PL de cuño propio para la resolución de ciertos problemas, originando distintas tareas de investigación RA47 - Ser capaz de manejar los términos y realizar exposiciones en público en lengua inglesa sobre la temática de la materia. * The Learning Guides should reflect the Skills and Learning Outcomes in the same way as indicated in the Degree Verification Memory. For this reason, they have not been translated into English and appear in Spanish. 
+
+> GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 2 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES
+> ANX-PR/CL/001-01 LEARNING GUIDE
+> E.T.S. de Ingenieros Informaticos
+
+## 4. Brief description of the subject and syllabus 
+
+4.1. Brief description of the subject 
+
+This course presents the logic programming paradigm, i.e., the use of logic as a practical language for programming applications. The course starts by presenting techniques for problem representation and problem solving using pure logic programming. The next step is programming with contemporary versions of Prolog, as well as efficient programming in this language, with special emphasis on applications in artificial intelligence. The course also addresses negation by failure and meta-programming, as well as an introduction to constraint programming, and some advanced topics. It is fundamentally a practical, programming-oriented course in which the students will complete a number of programming assignments using an advanced programming system which allows programming with pure logic programming, Prolog, functions, constraints, and several other extensions. 
+
+4.2. Syllabus 
+
+1. Introduction 1.1. Problem solving and automated theorem proving 1.2. What is (C)LP? 2. Pure Logic (relational) Programming 2.1. Syntax 2.2. Resolution and Unification 2.3. Data structures 2.4. Recursive programming 3. Prolog 3.1. Syntax 3.2. Execution model 3.3. Arithmetic 3.4. Data structures 3.5. Basic programming techniques 3.6. Meta-programming 
+
+> GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 3 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES
+> ANX-PR/CL/001-01 LEARNING GUIDE
+
+E.T.S. de Ingenieros Informaticos 3.7. Efficient Prolog programming 4. Theory of LP 4.1. Review of first-order predicate logic 4.2. Resolution 4.3. Fundamental results 4.4. Semantics of logic programs 5. Introduction to CLP 5.1. Constraint satisfaction 5.2. Basic constraint programming 
+
+GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 4 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES 
+
+ANX-PR/CL/001-01 LEARNING GUIDE 
+
+E.T.S. de Ingenieros Informaticos 5. Schedule 
+
+5.1. Subject schedule* 
+
+Week Face-to-face classroom activities Face-to-face laboratory activities Distant / On-line Assessment activities 
+
+1
+
+1.1 y 1.2 
+
+Duration: 02:00 Lecture 
+
+1.1 y 1.2 
+
+Duration: 02:00 Lecture 
+
+In-class exercises 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+2
+
+2.1 y 2.2 
+
+Duration: 02:00 Lecture 
+
+2.1 y 2.2 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+3
+
+2.3 
+
+Duration: 02:00 Lecture 
+
+Tutoría en grupo 
+
+Duration: 02:00 Problem-solving class 
+
+2.3 
+
+Duration: 02:00 Lecture 
+
+Tutoría en grupo 
+
+Duration: 02:00 Problem-solving class 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+4
+
+2.4 
+
+Duration: 02:00 Lecture 
+
+2.4 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+5
+
+2.5 
+
+Duration: 02:00 Lecture 
+
+2.5 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+6
+
+3.1 y 3.2 
+
+Duration: 02:00 Lecture 
+
+3.1 y 3.2 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+7
+
+3.3 y 3.4 
+
+Duration: 02:00 Lecture 
+
+3.3 y 3.4 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 03:00 
+
+8
+
+3.5 
+
+Duration: 02:00 Lecture 
+
+3.5 
+
+Duration: 02:00 Lecture 
+
+Assignment presentation 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 5 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES 
+
+ANX-PR/CL/001-01 LEARNING GUIDE 
+
+E.T.S. de Ingenieros Informaticos 9
+
+3.6 
+
+Duration: 02:00 Lecture 
+
+Tutoría en grupo 
+
+Duration: 02:00 Problem-solving class 
+
+3.6 
+
+Duration: 02:00 Lecture 
+
+Tutoría en grupo 
+
+Duration: 02:00 Problem-solving class 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+10 
+
+3.7 
+
+Duration: 02:00 Lecture 
+
+3.7 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+11 
+
+3.7 
+
+Duration: 02:00 Lecture 
+
+3.7 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+12 
+
+4.1 y 4.2 
+
+Duration: 02:00 Lecture 
+
+4.1 y 4.2 
+
+Duration: 02:00 Lecture 
+
+Assignment presentation 
+
+Individual presentation Continuous assessment Not Presential Duration: 02:00 
+
+13 
+
+4.3 y 4.4 
+
+Duration: 02:00 Lecture 
+
+4.3 y 4.4 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+14 
+
+5.1 
+
+Duration: 02:00 Lecture 
+
+5.1 
+
+Duration: 02:00 Lecture 
+
+Work on the assignments 
+
+Individual work Continuous assessment Not Presential Duration: 02:00 
+
+15 
+
+5.2 
+
+Duration: 02:00 Lecture 
+
+Tutoría en grupo 
+
+Duration: 02:00 Problem-solving class 
+
+5.2 
+
+Duration: 02:00 Lecture 
+
+Tutoría en grupo 
+
+Duration: 02:00 Problem-solving class 
+
+Assignment presentation 
+
+Individual presentation Continuous assessment Not Presential Duration: 02:00 
+
+16 
+
+Practical examination (optional, depends on performance in practical assignments) 
+
+Problem-solving test Continuous assessment Not Presential Duration: 01:00 
+
+17 
+
+Final exam 
+
+Written test Final examination Presential Duration: 02:00 
+
+Depending on the programme study plan, total values will be calculated according to the ECTS credit unit as 26/27 hours of student face-to-face contact and independent study time. * The schedule is based on an a priori planning of the subject; it might be modified during the academic year, especially considering the COVID19 evolution. 
+
+GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 6 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES 
+
+ANX-PR/CL/001-01 LEARNING GUIDE 
+
+E.T.S. de Ingenieros Informaticos 6. Activities and assessment criteria 
+
+6.1. Assessment activities 
+
+6.1.1. Continuous assessment 
+
+Week Description Modality Type Duration Weight Minimum grade Evaluated skills 
+
+1 In-class exercises Individual work No Presential 02:00 % 5 / 10 
+
+2 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+3 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+4 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+5 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+6 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+7 Work on the assignments Individual work No Presential 03:00 % 5 / 10 
+
+8 Assignment presentation Individual work No Presential 02:00 30% 5 / 10 
+
+CGI1 CG7 CG18 CEIA6 
+
+9 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+10 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+11 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+12 Assignment presentation Individual presentation No Presential 02:00 30% 5 / 10 
+
+CG7 CG18 CEIA6 CGI1 
+
+13 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+14 Work on the assignments Individual work No Presential 02:00 % 5 / 10 
+
+GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 7 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES 
+
+> ANX-PR/CL/001-01 LEARNING GUIDE
+
+E.T.S. de Ingenieros Informaticos 15 Assignment presentation Individual presentation No Presential 02:00 30% 5 / 10     
+
+> CGI1 CG7 CEIA6
+> 16
+> Practical examination (optional, depends on performance in practical assignments)
+> Problem-solving test No Presential 01:00 10% 5 / 10
+> CGI1 CG7 CG18 CEIA6
+
+6.1.2. Final examination              
+
+> Week Description Modality Type Duration Weight Minimum grade Evaluated skills
+> 17 Final exam Written test Face-to-face 02:00 100% 5 / 10
+> CGI1 CG18 CG7 CEIA6
+
+6.1.3. Referred (re-sit) examination 
+
+No se ha definido la evaluación extraordinaria. 
+
+6.2. Assessment criteria 
+
+Students are assumed by default to follow the 'continuous evaluation' path. This modality is highly recommended, since this is a highly practical course. Those students who do not wish to follow the practical part of the course (the assignments) must apply to the course coordinator for this status within the first 4 weeks. These students will have to take the (ordinary) final exam. 
+
+Continuous evaluation: 
+
+Several practical programming tasks will be assigned during the course. These assignments have to be completed individually. The descriptions of the assignments, instructions, information on systems to use, etc. will be sent by email and Moodle. Assignments will be checked on Deliverit and turned in via Moodle. The final grade for the assignments will be the average of the grades for each assignment. No minimum is required for each assignment. If the practical part has been passed (average >= 5.0) with "guarantees of authenticity" as well as a possible individual (short) practical exam, this will be the final grade. 
+
+GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 8 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES 
+
+> ANX-PR/CL/001-01 LEARNING GUIDE
+> E.T.S. de Ingenieros Informaticos
+
+Evaluation by final exam: 
+
+Those students that chose to be evaluated by final exam should take this exam. There are no practical assignments associated with this exam and the final grade is that of the exam. Todos los estudiantes se entiende por defecto que cursan la asignatura por evaluación continua. Esta modalidad es altamente recomendada ya que se trata de una asignatura eminentemente práctica. Los estudiantes que quieran ir por el contrario a evaluación por prueba final deben comunicarlo al coordinador durante las 4 primeras semanas del curso. Estos estudiantes deberán presentarse al examen final (ordinario). 
+
+Evaluación contínua: 
+
+Se realizarán varias prácticas durante el curso. Dichas prácticas se realizarán de forma individual. 
+
+Los enunciados, instrucciones, información sobre los sistemas a utilizar, etc., se enviarán por correo electrónico y Moodle. Las prácticas se comprobarán en Deliverit y la entrega se hará utilizando Moodle. La nota final de prácticas será la media de todas las prácticas. No hay nota mínima para cada práctica. Si se han aprobado las prácticas (media >=5.0) con garantía de autenticidad y el posible examen de prácticas individual (corto), la nota final será la de prácticas. 
+
+Evaluación por examen final: 
+
+Aquellos estudiantes que eligieron ser evaluados por prueba final deben presentarse a este examen. En este caso no hay prácticas y la nota final será la del examen. 
+
+> GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 9 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES
+> ANX-PR/CL/001-01 LEARNING GUIDE
+> E.T.S. de Ingenieros Informaticos
+
+## 7. Teaching resources 
+
+7.1. Teaching resources for the subject 
+
+Name Type Notes 
+
+``The Art of Prolog'' (Second edition), Sterling & Shapiro, MIT Press, 1994. Bibliography ``From Logic Programming to Prolog'', K. Apt, Prentice-Hall, 1997. Bibliography ``Prolog Programming for Artificial Intelligence'', I. Bratko, Addison-Wesley Ltd. 1990 (2nd edition); 2000 (3rd edition). Bibliography ``Programming in Prolog'', Clocksin & Mellish, 1981, Springer-Verlag. Bibliography ``Programming with Constraints: An Introduction'', Marriott & Stuckey, MIT Press, 1998. Bibliography ``Essentials of Logic Programming'', C. Hogger, 1990, Clarendon Press, Oxford. Bibliography Course web site Web resource http://www.clip.dia.fi.upm.es/prode Ciao Prolog Web resource Lenguaje de programación <br /> <br /> http://ciao-lang.org Sitio Moodle de la asignatura Web resource Aula Equipment Sala de trabajo en grupo Equipment Laboratorio: Centro de Cálculo Equipment 
+
+> GA_10AJ_103000364 1S_2021-22 Logic Programming Master Universitario En Inteligencia Artificial Page 10 of 11 PR/CL/001 COORDINATION PROCESS OF LEARNING ACTIVITIES
+> ANX-PR/CL/001-01 LEARNING GUIDE
+> E.T.S. de Ingenieros Informaticos
+
+## 8. Other information 
+
+8.1. Other information about the subject 
+
+The sanitary situation caused by the COVID-19 pandemic makes it necessary to limit occupancy in the classrooms and it has thus been decided that this semester will be conducted in principle in mixed-presence mode. In this mode each group is divided into subgroups so that each week one subgroup will be present in the classroom (the "activity in the classroom" column in the chronogram) while the remaining ones will connect to the class remotely (tele-presence column). Each week a different subgroup attends in the classroom. Students that for health reasons cannot attend in person are allowed to follow remotely. If the sanitary conditions worsen, or other circumstances do not allow conducting the class in person, students and faculty will connect remotely following the tele-presence column. In this situation any in-person evaluation activities will be conducted remotely, without any changes needed in this guide. If, on the contrary, the sanitary conditions improve and it is possible to teach normally in-class, all students will attend following the "activity in the classroom" column. This course is relevant to "Sustainable Development Goal Number 9" (Industry, Innovation, and Infrastructure) defined by the United Nations Program for Sustainable Development (www.undp.org) as related to innovation and research in information technology.

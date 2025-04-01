@@ -1,0 +1,437 @@
+Title: 
+
+URL Source: https://muia.dia.fi.upm.es/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000368_1S_2021-22.pdf
+
+Markdown Content:
+PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS PR/CL/001 
+
+E.T.S. de Ingenieros Informaticos 
+
+# ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+ASIGNATURA 
+
+103000368 - Modelos De Razonamiento 
+
+PLAN DE ESTUDIOS 
+
+10AJ - Master Universitario En Inteligencia Artificial 
+
+CURSO ACADÉMICO Y SEMESTRE 
+
+2021/22 - Primer semestre PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## Índice 
+
+Guía de Aprendizaje 
+
+1. Datos descriptivos....................................................................................................................................................1 2. Profesorado.............................................................................................................................................................1 3. Competencias y resultados de aprendizaje..............................................................................................................2 4. Descripción de la asignatura y temario.....................................................................................................................3 5. Cronograma.............................................................................................................................................................5 6. Actividades y criterios de evaluación........................................................................................................................8 7. Recursos didácticos................................................................................................................................................10 8. Otra información......................................................................................................................................................10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## 1. Datos descriptivos 
+
+1.1. Datos de la asignatura 
+
+Nombre de la asignatura 103000368 - Modelos de Razonamiento 
+
+No de créditos 5 ECTS 
+
+Carácter Optativa 
+
+Curso Primer curso 
+
+Semestre Primer semestre 
+
+Período de impartición Septiembre-Enero 
+
+Idioma de impartición Castellano 
+
+Titulación 10AJ - Master Universitario en Inteligencia Artificial 
+
+Centro responsable de la titulación 10 - Escuela Tecnica Superior De Ingenieros Informaticos 
+
+Curso académico 2021-22 
+
+## 2. Profesorado 
+
+2.1. Profesorado implicado en la docencia 
+
+Nombre Despacho Correo electrónico Horario de tutorías *
+
+Martin Molina Gonzalez (Coordinador/a) 2111 martin.molina@upm.es X - 12:00 - 14:00 * Las horas de tutoría son orientativas y pueden sufrir modificaciones. Se deberá confirmar los horarios de tutorías con el profesorado. 
+
+> GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 1 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## 3. Competencias y resultados de aprendizaje 
+
+3.1. Competencias 
+
+CB10 - Que los estudiantes posean las habilidades de aprendizaje que les permitan continuar estudiando de un modo que habrá de ser en gran medida autodirigido o autónomo. CB9 - Que los estudiantes sepan comunicar sus conclusiones y los conocimientos y razones últimas que las sustentan a públicos especializados y no especializados de un modo claro y sin ambigüedades CEIA1 - Capacidad de integrar tecnologías y sistemas propios de la Inteligencia Artificial, con carácter generalista, y en contextos más amplios y multidisciplinares CG13 - Apreciación de los límites del conocimiento actual y de la aplicación práctica de la tecnología más reciente. CG18 - Capacidad de trabajar y comunicarse también en contextos internacionales CGI1 - Adquirir conocimientos científicos avanzados del campo de la informática que le permitan generar nuevas ideas dentro de una línea de investigación. CGI3 - Capacidad para valorar la importancia de las fuentes documentales, manejarlas y buscar la información para el desarrollo de cualquier trabajo de investigación. CGI4 - Capacidad de leer y comprender publicaciones dentro de su ámbito de estudio/investigación, así como su catalogación y valor científico. 
+
+> GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 2 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+3.2. Resultados del aprendizaje 
+
+RA94 - Conocer las técnicas existentes para simular modos de razonamiento, entendiendo su alcance ylimitaciones RA96 - Ser capaz de buscar y manejar fuentes bibliográficas para analizar el estado del arte en el área de modelos de razonamiento RA93 - Conocer cuáles son los principales retos y logros sobre modos de razonamiento y su formalización mediante modelos computacionales RA95 - Ser capaz de identificar áreas de aplicación en las que se puedan utilizar modelos computacionales de razonamiento RA97 - Ser capaz de comunicar resultados de investigación sobre modelos de razonamiento, realizando exposiciones y manejando terminología adecuada 
+
+## 4. Descripción de la asignatura y temario 
+
+4.1. Descripción de la asignatura 
+
+La asignatura "Modelos de Razonamiento" presenta modelos computacionales de razonamiento propuestos en inteligencia artificial, que tienen aplicabilidad al diseño y construcción de sistemas inteligentes. Inicialmente, la asignatura presenta una caracterización general de los sistemas inteligentes junto con los conceptos yfundamentos básicos de la representación del conocimiento y el razonamiento. En esta parte, se explica el enfoque simbólico de la inteligencia artificial y se ilustra con métodos de representación del conocimiento (por ejemplo, lógica, reglas, marcos, etc.). A continuación, se describen las capacidades cognitivas asociadas al razonamiento deliberativo. En esta parte, se discuten los enfoques relacionados con el modelado del mundo, control de acciones reactivas e integración de niveles deliberativos con reactivos, lo cual es importante para que un sistema inteligente autónomo tome decisiones seguras y eficientes en entornos dinámicos complejos. Por último, la asignatura describe nuevos desafíos de la inteligencia artificial relacionados con los modelos de razonamiento. La asignatura ofrece principalmente una descripción teórica de una serie de métodos, ilustrada en algunos casos con herramientas y aplicaciones relacionadas con dominios prácticos (por ejemplo, robots aéreos autónomos). Como objetivo general de aprendizaje, se espera que los estudiantes desarrollen una comprensión global de los métodos de razonamiento que pueden complementar otras áreas más específicas de la inteligencia artificial que 
+
+> GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 3 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+hacen uso de enfoques simbólicos (por ejemplo, robots autónomos, sistemas multiagente, planificación automática, ingeniería ontológica, etc.). Al cursar esta asignatura, los estudiantes desarrollarán habilidades de investigación en inteligencia artificial a través de la realización de un trabajo que explore un tema de su interés, relacionado con los modelos de razonamiento. NOTA: Las presentaciones orales de esta asignatura se hacen en español, pero el material escrito utilizado (por ejemplo, las diapositivas de clase o bibliografía recomendada) están en inglés. 
+
+4.2. Temario de la asignatura 
+
+1. Intelligent systems 1.1. Properties of intelligent systems (intelligence, rationality, autonomy) 1.2. Functional components of intelligent systems (deliberation, perception, actuation, communication) 1.3. System categories (autonomous systems, expert systems, cognitive systems, etc.) 2. Knowledge representation and reasoning 2.1. Symbolism and connectionism in artificial intelligence 2.2. Terminology review (knowledge, representation, data, symbol grounding) 2.3. Reasoning as symbol manipulation 2.4. Review of methods and tools for knowledge representation (rules, frames, logic, constraints, etc.) 2.5. Reasoning about the world 3. Cognitive abilities related to deliberative reasoning 3.1. World modeling (environment mapping, perceptual anchoring) 3.2. Action execution control with cognizant failure 3.3. Reactive behaviors and deliberative reasoning 3.4. Goal reasoning (belief-desire-intention model) 4. Artificial intelligence challenges related to models of reasoning 
+
+> GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 4 de 10
+
+PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos 5. Cronograma 
+
+5.1. Cronograma de la asignatura * 
+
+Sem Actividad presencial en aula Actividad presencial en laboratorio Tele-enseñanza Actividades de evaluación 
+
+1
+
+Introducción 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Introducción 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+2
+
+Tema 1 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tema 1 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+3
+
+Tema 1 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tema 1 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+4
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+5
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+6
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+7
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Tema 2 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+8
+
+Tema 3 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Tema 3 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+9
+
+Tema 3 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Tema 3 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+10 
+
+Tema 3 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Tema 3 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Tareas semanales 
+
+OT: Otras técnicas evaluativas Evaluación continua No presencial Duración: 00:00 
+
+GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 5 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos 11 
+
+Tema 4 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Tema 4 
+
+Duración: 02:00 LM: Actividad del tipo Lección Magistral 
+
+Tutoría en grupo 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+12 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+13 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+14 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+15 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+Presentaciones de alumnos. Discusión en grupo. Respuestas del profesor a preguntas de alumnos. 
+
+Duración: 02:00 OT: Otras actividades formativas 
+
+16 
+
+Asistencia y participación en clase 
+
+OT: Otras técnicas evaluativas Evaluación continua Presencial Duración: 00:00 
+
+Trabajo práctico 
+
+TG: Técnica del tipo Trabajo en Grupo Evaluación continua No presencial Duración: 00:00 
+
+Examen escrito 
+
+EX: Técnica del tipo Examen Escrito Evaluación continua Presencial Duración: 02:00 
+
+17 
+
+Examen escrito 
+
+EX: Técnica del tipo Examen Escrito Evaluación sólo prueba final Presencial Duración: 02:00 
+
+Trabajo práctico 
+
+TG: Técnica del tipo Trabajo en Grupo Evaluación sólo prueba final No presencial Duración: 00:00 
+
+Para el cálculo de los valores totales, se estima que por cada crédito ECTS el alumno dedicará dependiendo del plan de estudios, entre 26 y 27 horas de trabajo presencial y no presencial. * El cronograma sigue una planificación teórica de la asignatura y puede sufrir modificaciones durante el curso 
+
+GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 6 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos derivadas de la situación creada por la COVID-19. 
+
+GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 7 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE 
+
+E.T.S. de Ingenieros Informaticos 6. Actividades y criterios de evaluación 
+
+6.1. Actividades de evaluación de la asignatura 
+
+6.1.1. Evaluación continua 
+
+Sem. Descripción Modalidad Tipo Duración Peso en la nota Nota mínima Competencias evaluadas 
+
+10 Tareas semanales 
+
+OT: Otras técnicas evaluativas 
+
+No Presencial 00:00 10% / 10 CEIA1 CGI1 
+
+16 Asistencia y participación en clase 
+
+OT: Otras técnicas evaluativas 
+
+Presencial 00:00 10% 7 / 10 CGI1 CEIA1 
+
+16 Trabajo práctico 
+
+TG: Técnica del tipo Trabajo en Grupo 
+
+No Presencial 00:00 50% 5 / 10 
+
+CGI4 CB10 CGI3 CB9 CG13 CG18 
+
+16 Examen escrito 
+
+EX: Técnica del tipo Examen Escrito 
+
+Presencial 02:00 30% 5 / 10 CGI1 CEIA1 
+
+6.1.2. Evaluación sólo prueba final 
+
+Sem Descripción Modalidad Tipo Duración Peso en la nota Nota mínima Competencias evaluadas 
+
+17 Examen escrito 
+
+EX: Técnica del tipo Examen Escrito 
+
+Presencial 02:00 50% 5 / 10 CGI1 CEIA1 
+
+17 Trabajo práctico 
+
+TG: Técnica del tipo Trabajo en Grupo 
+
+No Presencial 00:00 50% 5 / 10 
+
+CB9 CG13 CG18 CGI4 CB10 CGI3 
+
+6.1.3. Evaluación convocatoria extraordinaria 
+
+GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 8 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+
+E.T.S. de Ingenieros Informaticos Descripción Modalidad Tipo Duración Peso en la nota Nota mínima Competencias evaluadas        
+
+> Examen escrito
+> EX: Técnica del tipo Examen Escrito
+> Presencial 02:00 50% 5 / 10 CGI1 CEIA1
+> Trabajo práctico
+> TG: Técnica del tipo Trabajo en Grupo
+> Presencial 00:00 50% 5 / 10
+> CB9 CG13 CG18 CGI4 CB10 CGI3
+
+6.2. Criterios de evaluación 
+
+Las calificaciones parciales y finales se hacen en la escala de 0 a 10. Para aprobar el curso se requiere que la nota final G sea G >= 5. La evaluación "continua" y la evaluación de "sólo prueba final" son mutuamente excluyentes. Los estudiantes que deseen seguir "sólo prueba final" deben informar al coordinador (dirección de correo electrónico: martin.molina@upm.es) al inicio del curso, en las dos primeras semanas del mismo. En caso contrario, se sigue la evaluación continua. Los alumnos que se acojan a la evaluación de "sólo prueba final" o la evaluación en la "convocatoria extraordinaria" deberán entregar al coordinador (martin.molina@upm.es) el informe de trabajo práctico al menos una semana antes del día establecido para el examen escrito. El alumno podrá presentarse al examen escrito si ha presentado con antelación el informe del trabajo práctico. 
+
+GA_10AJ_103000368 1S_2021-22 Modelos De Razonamiento Master Universitario En Inteligencia Artificial Página 9 de 10 PR/CL/001 PROCESO DE COORDINACIÓN DE LAS ENSEÑANZAS 
+
+> ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE
+> E.T.S. de Ingenieros Informaticos
+
+## 7. Recursos didácticos 
+
+7.1. Recursos didácticos de la asignatura 
+
+Nombre Tipo Observaciones 
+
+Moodle UPM Recursos web Bibliografía Bibliografía Bibliografía seleccionada (artículos y libros) 
+
+## 8. Otra información 
+
+8.1. Otra información sobre la asignatura 
+
+La situación sanitaria causada por la pandemia COVID-19 obliga a restringir el aforo de las aulas y por ello se ha decidido que la docencia de este semestre sea de presencialidad mixta. Se establecerán turnos de presencialidad dentro de los grupos, de forma que cada semana un turno asistirá a clase en el aula (columna "actividad en el aula" del cronograma), mientras el resto de los turnos se conectarán a la clase en remoto (columna "teleenseñanza). Y cada semana será un turno diferente el que acuda al aula. Si mejoraran las condiciones sanitarias y se pudieran impartir clases presenciales con normalidad, todos los alumnos acudirán a las aulas a recibir las clases indicadas en la columna "actividad en el aula". Si, por el contrario, empeoraran las condiciones sanitarias, todos los alumnos pasarían a conectarse a las clases en remoto de la columna "tele-enseñanza". En esta situación las pruebas de evaluación continua presenciales previstas se realizarían de forma online, sin necesidad de modificar esta guía. Esta asignatura está relacionada con el "Objetivo de Desarrollo Sostenible 9" (Industria, innovación einfraestructura) definido por el Programa de las Naciones Unidas para el Desarrollo (www.undp.org) en lo referente a innovación e investigación científica en tecnologías de la información.
